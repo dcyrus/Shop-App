@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "364900486390",
+    "firebase_url": "https://shop-app-2d149-default-rtdb.firebaseio.com",
+    "project_id": "shop-app-2d149",
+    "storage_bucket": "shop-app-2d149.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364900486390:android:4963b8011ff600c81fb0d7",
+        "android_client_info": {
+          "package_name": "com.greetvilla.shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364900486390-tn6ks3l1qv85d49sqmb0mhgbsk4k0hct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiyDiyxE92CfdiQDLZviI4xWgSldJzpkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364900486390-tn6ks3l1qv85d49sqmb0mhgbsk4k0hct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
