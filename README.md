@@ -1,7 +1,7 @@
 <br />
 <p align="center">
 
-  <h1 align="center">Meals App</h1>
+  <h1 align="center">Shop App</h1>
 
   <p align="center">
     Add, manage and order products
